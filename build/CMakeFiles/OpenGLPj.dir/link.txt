@@ -1,0 +1,1 @@
+/data/data/com.termux/files/usr/bin/c++ -O2 -g -DNDEBUG CMakeFiles/OpenGLPj.dir/src/main.cpp.o -o OpenGLPj
